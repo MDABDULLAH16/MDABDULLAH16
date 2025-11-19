@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Currently studying
+I’m a passionate MERN Stack developer who loves building modern, scalable, and user-friendly web applications. I enjoy turning ideas into real-world products and continuously improving my skills to stay updated with the latest trends in web development.
 
 
 ## 🌐 Socials:
