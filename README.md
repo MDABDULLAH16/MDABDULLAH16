@@ -4,6 +4,12 @@
 
 I’m a passionate MERN Stack developer who loves building modern, scalable, and user-friendly web applications. I enjoy turning ideas into real-world products and continuously improving my skills to stay updated with the latest trends in web development.
 
+# 🚀 Current Activities
+
+- <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs" width="20"/> I am Exploring React & Next.js  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20"/> Building MERN projects  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="20"/> Working with MongoDB  
+
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/mdabdullah139) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ars.abdullah) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100013022822481) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/md-abdullah-49a39622b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdabdullah161036@gmail.com) 
@@ -29,7 +35,7 @@ I’m a passionate MERN Stack developer who loves building modern, scalable, and
 
 | Top Languages | GitHub Stats | GitHub Streak |
 |:---:|:---:|:---:|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MDABDULLAH16&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MDABDULLAH16&theme=transparent&hide_border=true&include_all_commits=true&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MDABDULLAH16&theme=transparent&hide_border=true) |
+| ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MDABDULLAH16&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&size_weight=0.5&count_weight=0.5) | ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=MDABDULLAH16&theme=transparent&hide_border=true&include_all_commits=true&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MDABDULLAH16&theme=transparent&hide_border=true)|
 
 
 ## ✍️ Random Dev Quote
