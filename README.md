@@ -6,7 +6,7 @@ I’m a passionate MERN Stack developer who loves building modern, scalable, and
 
 # 🚀 Current Activities
 
-- <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs" width="20"/> I am Exploring React & Next.js  
+- <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs" width="20"/> I am Exploring Next.js  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20"/> Building MERN projects  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="20"/> Working with MongoDB  
 
